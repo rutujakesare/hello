@@ -5,3 +5,7 @@ Coding languages
 Java
 Python
 C++
+
+
+JavaScript
+HTML
